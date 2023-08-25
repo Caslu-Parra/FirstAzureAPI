@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "qNga3FAb40GE9hMnoP7PD8jQzaXBQCz4OVf5pgC1ZKk=",
+  "Source": "HelloWorldAzureAPI",
+  "BasePath": "_content/HelloWorldAzureAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
