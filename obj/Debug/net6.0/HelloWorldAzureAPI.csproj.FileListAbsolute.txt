@@ -25,3 +25,30 @@ C:\Users\lucas.parra\OneDrive - Rolamentos CBF Ltda\Documentos\Projetos_Pessoais
 C:\Users\lucas.parra\OneDrive - Rolamentos CBF Ltda\Documentos\Projetos_Pessoais\apis\HelloWorldAzureAPI\obj\Debug\net6.0\HelloWorldAzureAPI.pdb
 C:\Users\lucas.parra\OneDrive - Rolamentos CBF Ltda\Documentos\Projetos_Pessoais\apis\HelloWorldAzureAPI\obj\Debug\net6.0\HelloWorldAzureAPI.genruntimeconfig.cache
 C:\Users\lucas.parra\OneDrive - Rolamentos CBF Ltda\Documentos\Projetos_Pessoais\apis\HelloWorldAzureAPI\obj\Debug\net6.0\ref\HelloWorldAzureAPI.dll
+C:\projetos\FirstAzureAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\projetos\FirstAzureAPI\bin\Debug\net6.0\appsettings.json
+C:\projetos\FirstAzureAPI\bin\Debug\net6.0\HelloWorldAzureAPI.exe
+C:\projetos\FirstAzureAPI\bin\Debug\net6.0\HelloWorldAzureAPI.deps.json
+C:\projetos\FirstAzureAPI\bin\Debug\net6.0\HelloWorldAzureAPI.runtimeconfig.json
+C:\projetos\FirstAzureAPI\bin\Debug\net6.0\HelloWorldAzureAPI.dll
+C:\projetos\FirstAzureAPI\bin\Debug\net6.0\HelloWorldAzureAPI.pdb
+C:\projetos\FirstAzureAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\projetos\FirstAzureAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\projetos\FirstAzureAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\projetos\FirstAzureAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\projetos\FirstAzureAPI\obj\Debug\net6.0\HelloWorldAzureAPI.csproj.AssemblyReference.cache
+C:\projetos\FirstAzureAPI\obj\Debug\net6.0\HelloWorldAzureAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\FirstAzureAPI\obj\Debug\net6.0\HelloWorldAzureAPI.AssemblyInfoInputs.cache
+C:\projetos\FirstAzureAPI\obj\Debug\net6.0\HelloWorldAzureAPI.AssemblyInfo.cs
+C:\projetos\FirstAzureAPI\obj\Debug\net6.0\HelloWorldAzureAPI.csproj.CoreCompileInputs.cache
+C:\projetos\FirstAzureAPI\obj\Debug\net6.0\HelloWorldAzureAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\projetos\FirstAzureAPI\obj\Debug\net6.0\HelloWorldAzureAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\projetos\FirstAzureAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\projetos\FirstAzureAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\projetos\FirstAzureAPI\obj\Debug\net6.0\scopedcss\bundle\HelloWorldAzureAPI.styles.css
+C:\projetos\FirstAzureAPI\obj\Debug\net6.0\HelloWorldAzureAPI.csproj.CopyComplete
+C:\projetos\FirstAzureAPI\obj\Debug\net6.0\HelloWorldAzureAPI.dll
+C:\projetos\FirstAzureAPI\obj\Debug\net6.0\refint\HelloWorldAzureAPI.dll
+C:\projetos\FirstAzureAPI\obj\Debug\net6.0\HelloWorldAzureAPI.pdb
+C:\projetos\FirstAzureAPI\obj\Debug\net6.0\HelloWorldAzureAPI.genruntimeconfig.cache
+C:\projetos\FirstAzureAPI\obj\Debug\net6.0\ref\HelloWorldAzureAPI.dll
