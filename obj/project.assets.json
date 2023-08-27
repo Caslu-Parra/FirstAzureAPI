@@ -437,24 +437,26 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\lucas.parra\\.nuget\\packages\\": {}
+    "C:\\Users\\Lucas Parra\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lucas.parra\\OneDrive - Rolamentos CBF Ltda\\Documentos\\Projetos_Pessoais\\apis\\HelloWorldAzureAPI\\HelloWorldAzureAPI.csproj",
+      "projectUniqueName": "C:\\projetos\\FirstAzureAPI\\HelloWorldAzureAPI.csproj",
       "projectName": "HelloWorldAzureAPI",
-      "projectPath": "C:\\Users\\lucas.parra\\OneDrive - Rolamentos CBF Ltda\\Documentos\\Projetos_Pessoais\\apis\\HelloWorldAzureAPI\\HelloWorldAzureAPI.csproj",
-      "packagesPath": "C:\\Users\\lucas.parra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lucas.parra\\OneDrive - Rolamentos CBF Ltda\\Documentos\\Projetos_Pessoais\\apis\\HelloWorldAzureAPI\\obj\\",
+      "projectPath": "C:\\projetos\\FirstAzureAPI\\HelloWorldAzureAPI.csproj",
+      "packagesPath": "C:\\Users\\Lucas Parra\\.nuget\\packages\\",
+      "outputPath": "C:\\projetos\\FirstAzureAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\lucas.parra\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Lucas Parra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
